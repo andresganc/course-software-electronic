@@ -53,6 +53,10 @@
 
             - show all images
 
+        $ docker images -a
+
+            - List all images
+
         $ docker images | head
 
 
