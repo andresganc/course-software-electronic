@@ -23,7 +23,7 @@
 
         $ docker run my-postgres
 
-        $ docker run -e POSTGRES_PASSWORD=password postgres
+        $ docker run -e POSTGRES_PASSWORD=123456 postgres
 
         $ docker run -d my-postgres
 
