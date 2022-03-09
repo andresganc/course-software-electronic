@@ -3,4 +3,6 @@
 
 - Docker
 
-- Error de sudo en extension
+- Solution: Error "connect EACCES /var/run/docker.sock" on Linux
+
+https://docs.docker.com/engine/install/linux-postinstall/
