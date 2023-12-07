@@ -1,4 +1,7 @@
 
-# SINGLE PAGE APPLICATION - LIT (WEB COMPONENTS)
+# COURSE SOFTWARE ELECTRONIC
 
-    - Single Page Application developed with Lit (Web Components) 
+    - Course Software Electronic
+
+
+## TABLE OF CONTENTS
